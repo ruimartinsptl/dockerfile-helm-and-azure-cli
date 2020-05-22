@@ -1,2 +1,5 @@
-# helm-and-azure-cli
-Helm and Azure-Cli
+# Helm and Azure-Cli
+
+![](./.img/Azure.png)
+
+![](./.img/Helm.png)
