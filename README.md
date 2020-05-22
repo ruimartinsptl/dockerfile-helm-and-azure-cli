@@ -1,5 +1,5 @@
 # Helm and Azure-Cli
 
-![](./.img/Azure.png)
+![](./.img/Azure.svg)
 
-![](./.img/Helm.png)
+![](./.img/Helm.svg)
